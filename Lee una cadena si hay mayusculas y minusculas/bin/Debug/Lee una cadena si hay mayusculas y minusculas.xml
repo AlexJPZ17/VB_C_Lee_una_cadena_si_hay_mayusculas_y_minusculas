@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Leeunacadenasihaymayusculasyminusculas
+</name>
+</assembly>
+<members>
+<member name="P:Lee_una_cadena_si_hay_mayusculas_y_minusculas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Lee_una_cadena_si_hay_mayusculas_y_minusculas.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Lee_una_cadena_si_hay_mayusculas_y_minusculas.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
